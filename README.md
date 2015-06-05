@@ -5,6 +5,8 @@ Collecting data from Steam Market.
 
 Do not use illegal activity. (e.g.: Steam Buyer Bot)
 
+I used one of my previous projects: 
+
 ###Start
 	$./DataCollector.py
 
