@@ -7,6 +7,8 @@ Do not use illegal activity. (e.g.: Steam Buyer Bot)
 
 I used one of my previous projects: [CurrencyConverter](https://github.com/orotib/MoneyChanger)
 
+Please write me if you find a bug.
+
 ###Start
 	$./DataCollector.py
 
